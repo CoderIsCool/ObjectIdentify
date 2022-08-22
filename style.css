@@ -1,0 +1,23 @@
+
+.stuff
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+font-family: cursive;
+}
+
+#status
+{
+font-size: 18px;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #052335;
+}
