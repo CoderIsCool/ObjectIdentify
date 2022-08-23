@@ -21,3 +21,40 @@ canvas
     border-radius: 20px;
     box-shadow: 5px 5px 15px #052335;
 }
+.flower
+{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    font-family: cursive;
+}
+.one
+{
+    width:25%;
+    font-size: 20px;
+    font-family: cursive;
+}
+.two
+{
+    width:25%;
+    font-size: 20px;
+    font-family: cursive;
+}
+.three
+{
+    width:25%;
+    font-size: 20px;
+    font-family: cursive;
+}
+.four
+{
+    width:25%;
+    font-size: 20px;
+    font-family: cursive;
+}
+.five
+{
+    width:25%;
+    font-size: 20px;
+    font-family: cursive;
+}
